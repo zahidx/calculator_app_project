@@ -1,5 +1,10 @@
 # calculator_app
 
+![ss](https://github.com/zahidx/calculator_app_project/assets/94776268/1c287ed9-b2f8-429d-96e1-4d0d509ff36e)
+
+![ss1](https://github.com/zahidx/calculator_app_project/assets/94776268/7141518c-83f6-4f16-b153-748eae044d6f)
+![ss2](https://github.com/zahidx/calculator_app_project/assets/94776268/248b0bfb-15c3-4320-8d31-e935a59c7834)
+
 A new Flutter project.
 
 ## Getting Started
